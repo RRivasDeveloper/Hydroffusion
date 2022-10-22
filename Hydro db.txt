@@ -21,7 +21,7 @@ CREATE TABLE hyd_ingeso_materia_prima (
  PRIMARY KEY (IMP_INGRESO_MATERIA_PRIMA)
 );
 
-hyd_medida	CREATE TABLE hyd_medida (
+CREATE TABLE hyd_medida (
  MED_MEDIDA int(11) NOT NULL AUTO_INCREMENT,
  MED_DESCRIPCION varchar(50) DEFAULT NULL,
  PRIMARY KEY (MED_MEDIDA)
@@ -41,7 +41,7 @@ CREATE TABLE hyd_persona (
  PRIMARY KEY (PER_PERSONA)
 );
 
-hyd_producto	CREATE TABLE hyd_producto (
+CREATE TABLE hyd_producto (
  PRD_PRODUCTO int(11) NOT NULL AUTO_INCREMENT,
  PRD_DESCRIPCION varchar(50) DEFAULT NULL,
  PRIMARY KEY (PRD_PRODUCTO)
@@ -89,7 +89,8 @@ INSERT INTO hyd_puesto (PUE_DESCRIPCION) values ('GERENTE REDES');
 INSERT INTO hyd_puesto (PUE_DESCRIPCION) values ('GERENTE BASE DE DATOS');
 
 
-INSERT INTO hyd_persona ( PER_PRIMERNOMBRE ,
+INSERT INTO hyd_persona ( 
+ PER_PRIMERNOMBRE ,
  PER_SEGUNDONOMBRE,
  PER_PRIMERAPELLIDO ,
  PER_SEGUNDOAPELLIDO ,
@@ -104,10 +105,9 @@ values (
 'GONZALEZ',
 'CAJUAS',
 '1234567890123',
-12345678,
-'sgonzalez@hydro.com.gt'
-1
-);
+'guate',12345678,
+'sgonzalez@hydro.com.gt',
+1);
 
 
 insert into hyd_usuario ( USU_Nombre ,
