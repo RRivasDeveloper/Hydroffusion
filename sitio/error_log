@@ -1,0 +1,908 @@
+[08-Apr-2021 16:51:40 America/Chicago] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/miltodie/analisis.miltonteddie.com/conexion.php on line 2
+[08-Apr-2021 16:51:40 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/miltodie/analisis.miltonteddie.com/conexion.php on line 2
+[08-Apr-2021 16:51:40 America/Chicago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home3/miltodie/analisis.miltonteddie.com/conexion.php on line 3
+[09-Apr-2021 09:18:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/miltodie/analisis.miltonteddie.com/sitio/guardar.php on line 10
+[09-Apr-2021 09:54:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php on line 10
+[09-Apr-2021 10:14:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php on line 10
+[09-Apr-2021 10:39:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php on line 10
+[09-Apr-2021 10:41:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php on line 15
+[09-Apr-2021 10:47:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php on line 15
+[09-Apr-2021 10:51:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/index.php on line 15
+[09-Apr-2021 11:13:03 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 11
+[09-Apr-2021 11:19:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/entrada_materia.php(69): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 11:19:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/entrada_materia.php(69): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 11:45:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on array in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:13
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 13
+[09-Apr-2021 11:45:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on array in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:13
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 13
+[09-Apr-2021 11:46:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on array in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:13
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 13
+[09-Apr-2021 11:46:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function data_seek() on array in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:13
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 13
+[09-Apr-2021 12:15:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 12:46:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(70): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 12:49:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(70): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 12:51:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(70): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 12:51:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(70): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 12:52:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(70): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 13:11:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:13:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:13:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:14:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:15:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:16:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:18:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:18:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:20:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(52): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:20:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:21:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:21:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(55): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:25:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(50): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:27:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(50): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:29:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(54): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:29:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(54): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 13:29:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(54): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 14:13:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 14:33:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php on line 24
+[09-Apr-2021 14:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php on line 24
+[09-Apr-2021 15:01:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/entrada_materia.php(69): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 15:49:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_personal.php(74): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 18:09:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php(75): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 19:12:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/entrada_materia.php(69): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[09-Apr-2021 19:30:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 36
+[09-Apr-2021 19:30:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 36
+[09-Apr-2021 19:30:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 36
+[09-Apr-2021 19:31:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 36
+[09-Apr-2021 19:33:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 36
+[09-Apr-2021 20:51:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[09-Apr-2021 21:02:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$PASSWORD' (T_VARIABLE) in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_usuario.php on line 17
+[10-Apr-2021 19:44:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[10-Apr-2021 20:44:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_usuario.php(80): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[10-Apr-2021 21:22:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/entrada_materia.php(69): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[10-Apr-2021 21:23:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:2
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/entrada_materia.php(69): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 2
+[10-Apr-2021 22:24:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 12:35:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 12:35:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Usu2.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 14:40:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Usu2.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 15:39:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Personal.php(62): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 15:48:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 17:11:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Personal.php(62): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 18:19:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[12-Apr-2021 18:24:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:143
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 143
+[12-Apr-2021 18:27:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:143
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 143
+[12-Apr-2021 18:30:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:143
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 143
+[12-Apr-2021 18:30:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:143
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 143
+[12-Apr-2021 18:46:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php(79): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[13-Apr-2021 14:31:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[13-Apr-2021 14:34:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[13-Apr-2021 14:55:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php(79): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[13-Apr-2021 15:15:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Usu2.php(83): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[13-Apr-2021 16:04:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:05:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:06:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:07:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:07:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:07:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:07:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:07:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:07:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:07:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:11:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:12:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:18:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:19:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:21:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:22:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:22:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:22:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:22:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:23:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:25:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:25:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:25:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:25:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:25:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:25:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:26:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:26:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:29:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:30:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:198
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 198
+[13-Apr-2021 16:32:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php:200
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 200
+[13-Apr-2021 16:54:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:176
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 176
+[13-Apr-2021 16:56:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:176
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 176
+[13-Apr-2021 16:57:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:176
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 176
+[13-Apr-2021 17:34:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php:155
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php on line 155
+[13-Apr-2021 17:36:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php:155
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php on line 155
+[13-Apr-2021 17:38:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php:155
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php on line 155
+[13-Apr-2021 17:42:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php:155
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_DetalleMateriaPrima.php on line 155
+[13-Apr-2021 20:20:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php(54): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[14-Apr-2021 09:32:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(56): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[14-Apr-2021 13:55:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(85): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[14-Apr-2021 14:53:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php on line 179
+[14-Apr-2021 14:53:44 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php on line 179
+[14-Apr-2021 14:54:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php on line 179
+[14-Apr-2021 15:00:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$PER_foto' (T_VARIABLE), expecting ',' or ';' in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 30
+[14-Apr-2021 15:00:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$PER_foto' (T_VARIABLE), expecting ',' or ';' in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 30
+[17-Apr-2021 14:53:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:3
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(49): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 3
+[17-Apr-2021 14:53:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:3
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(49): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 3
+[17-Apr-2021 14:54:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:3
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(49): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 3
+[17-Apr-2021 14:56:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:3
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(50): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 3
+[17-Apr-2021 14:56:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:3
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(50): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 3
+[17-Apr-2021 14:57:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php:3
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(5): require()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/sider_menu.php on line 3
+[19-Apr-2021 14:09:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[19-Apr-2021 18:24:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/user_info.php(54): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[20-Apr-2021 13:30:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[20-Apr-2021 14:12:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Medida.php(79): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[20-Apr-2021 14:12:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[20-Apr-2021 14:24:01 America/Chicago] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Medida.php on line 24
+[20-Apr-2021 14:24:52 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Medida.php on line 24
+[20-Apr-2021 14:26:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Medida.php on line 27
+[21-Apr-2021 14:06:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[22-Apr-2021 10:52:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[22-Apr-2021 10:53:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Producto.php on line 202
+[22-Apr-2021 10:55:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Producto.php on line 202
+[22-Apr-2021 10:55:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Producto.php on line 202
+[22-Apr-2021 10:56:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Producto.php on line 202
+[22-Apr-2021 10:56:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Producto.php on line 202
+[22-Apr-2021 10:56:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Producto.php on line 202
+[22-Apr-2021 11:06:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$query_consulta_Persona' (T_VARIABLE) in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php on line 34
+[22-Apr-2021 12:23:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php(91): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[22-Apr-2021 12:23:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[22-Apr-2021 12:48:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$encabezado_reciente' (T_VARIABLE) in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 42
+[22-Apr-2021 12:53:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 42
+[22-Apr-2021 12:55:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 41
+[22-Apr-2021 13:11:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php on line 41
+[22-Apr-2021 13:26:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php(107): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[22-Apr-2021 13:26:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 07:40:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Personal.php(68): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 07:40:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 09:18:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_MateriaPrima.php(106): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 09:18:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 14:09:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 14:44:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 15:21:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 17:54:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php on line 23
+[23-Apr-2021 17:54:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php on line 23
+[23-Apr-2021 17:55:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Proveedor.php on line 23
+[23-Apr-2021 18:08:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 44
+[23-Apr-2021 18:08:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 44
+[23-Apr-2021 18:09:03 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 44
+[23-Apr-2021 18:09:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 44
+[23-Apr-2021 18:55:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 22
+[23-Apr-2021 18:57:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 22
+[23-Apr-2021 18:57:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 22
+[23-Apr-2021 18:57:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_puesto.php on line 22
+[23-Apr-2021 20:30:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_Usu2.php(100): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 20:30:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 21:10:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php(77): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 21:10:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[23-Apr-2021 21:10:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php:134
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php on line 134
+[23-Apr-2021 21:10:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php:134
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php on line 134
+[23-Apr-2021 21:11:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php:134
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php on line 134
+[24-Apr-2021 02:42:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/Reporte_Existencia.php(77): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[24-Apr-2021 02:42:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[24-Apr-2021 08:08:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(101): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[24-Apr-2021 08:08:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[29-Apr-2021 19:49:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[03-May-2021 17:18:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/update_user.php:175
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/update_user.php on line 175
+[03-May-2021 17:19:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/update_user.php:175
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/update_user.php on line 175
+[03-May-2021 17:22:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/update_user.php(100): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[03-May-2021 17:22:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[04-May-2021 13:11:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 24
+[04-May-2021 13:11:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 24
+[04-May-2021 13:11:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 24
+[04-May-2021 13:22:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php(76): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[04-May-2021 13:22:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[04-May-2021 13:50:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php:161
+Stack trace:
+#0 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 161
+[04-May-2021 14:20:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'update_user' (T_STRING), expecting ',' or ';' in /home3/miltodie/analisis.miltonteddie.com/sitio/up_users.php on line 139
+[04-May-2021 14:31:36 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 24
+[04-May-2021 14:38:02 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 25
+[04-May-2021 14:40:31 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 25
+[04-May-2021 14:42:32 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home3/miltodie/analisis.miltonteddie.com/sitio/update_users.php on line 25
+[06-May-2021 21:03:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[08-May-2021 15:10:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[15-May-2021 08:24:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(118): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[15-May-2021 08:24:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[15-May-2021 08:24:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(118): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[15-May-2021 08:24:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[15-May-2021 12:36:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/ingreso_persona.php(112): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5
+[15-May-2021 12:36:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php:5
+Stack trace:
+#0 /home3/miltodie/analisis.miltonteddie.com/sitio/index.php(57): include()
+#1 {main}
+  thrown in /home3/miltodie/analisis.miltonteddie.com/sitio/datos_personal.php on line 5

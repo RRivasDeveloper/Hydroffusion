@@ -114,8 +114,8 @@ insert into hyd_usuario ( USU_Nombre ,
  USU_Contrasenia ,
  PER_Persona ,
  ROL_Rol)
-values ('SGONZALEZ',
-'12345',
+values ('rivas',
+sha1('12345'),
 1,
 1
 );
