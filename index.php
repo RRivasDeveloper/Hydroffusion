@@ -14,7 +14,7 @@
 		$password = mysqli_real_escape_string($mysqli,$_POST['pass']);
 		$error = '';
 		
-		$sha1_pass = ($password);
+		$sha1_pass = sha1($password);
 		
 		$result=$mysqli->query("SELECT usu_usuario FROM HYD_USUARIO WHERE usu_nombre = '$usuario'");
 		$rows = $result->num_rows;
